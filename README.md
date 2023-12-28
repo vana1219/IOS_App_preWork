@@ -10,12 +10,12 @@ Time spent: **1 and half** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+(https://www.loom.com/share/c425635375614ae599243aa9de06fa0e?sid=7fbe1c09-1129-45d6-bd0a-093ad30a7740)
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
@@ -36,8 +36,9 @@ I can download movies that I like so I can watch them without using internet.
 
 ## Notes
 
-During the time learning how to do it, trying to figured out how to drag a lables and button was a little bit hard. After that, I tried to join Slack, and it helped me a lot.
-It was a little challenge to figure out where to put each code in order. Other than that, everything was obvious. It is a cool thing that I have to learn.
+During the time learning how to do it, trying to figured out how to drag a lables and button was a little bit hard.
+Step 3 which is connect UI to logic was a little challenging too. After that, I tried to join Slack, and it helped me a lot.
+Other than that, everything was obvious. It is a cool thing that I have to learn.
 
 ## License
 
