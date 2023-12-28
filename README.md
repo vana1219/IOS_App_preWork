@@ -10,8 +10,8 @@ Time spent: **1 and half** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -36,8 +36,9 @@ I can download movies that I like so I can watch them without using internet.
 
 ## Notes
 
-During the time learning how to do it, trying to figured out how to drag a lables and button was a little bit hard. After that, I tried to join Slack, and it helped me a lot.
-It was a little challenge to figure out where to put each code in order. Other than that, everything was obvious. It is a cool thing that I have to learn.
+During the time learning how to do it, trying to figured out how to drag a lables and button was a little bit hard.
+Step 3 which is connect UI to logic was a little challenging too. After that, I tried to join Slack, and it helped me a lot.
+Other than that, everything was obvious. It is a cool thing that I have to learn.
 
 ## License
 
